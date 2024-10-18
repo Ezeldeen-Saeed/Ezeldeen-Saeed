@@ -3,7 +3,7 @@
 - I'm no specialist in a specific major, I'm generally interested in anything included in a computer science major or by computer.
   - Web Dev
   - Game Dev
-  - Unix Systems
+  - Linux Systems
   - Compititive Programming
   - Cyber Security
   - Computer Hardware
